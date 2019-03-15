@@ -13,7 +13,7 @@ module.exports = {
     sidebar: 'auto',
     search: false,
     lastUpdated: 'Last Updated',
-    repo: 'chinadbo',
+    repo: 'chinadbo/chinadbo.github.io',
     repoLabel: 'Github Pages',
     docsRepo: 'chinadbo/chinadbo.github.io',
     docsDir: 'docs',
